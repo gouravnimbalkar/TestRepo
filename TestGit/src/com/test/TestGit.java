@@ -7,5 +7,7 @@ public class TestGit {
 		System.out.println("Test");
 		//This is test
 		System.out.println("Test");
+		System.out.println("Test");
 	}
 }
+
